@@ -9,7 +9,7 @@
 			<div class="form_div">
 				<div class="title"><h2>HNG 2017</h2></div>
    
-				<form action="insert.php" method="post">    <!-- method can be set POST for hiding values in URL-->
+				<form action="index.php" method="post">    <!-- method can be set POST for hiding values in URL-->
 					<h2>FORM TO DATABASE</h2>
 					<label>Name:</label>
 					<br />
